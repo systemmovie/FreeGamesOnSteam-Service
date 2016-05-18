@@ -4,7 +4,7 @@ Simple service NodeJS app to check for new posts on the subreddit `FreeGamesOnSt
 
 ### Preview
 
-![Preview](https://raw.githubusercontent.com/systemmovie/AdflyBot/master/preview.png)
+![Preview](https://raw.githubusercontent.com/systemmovie/FreeGamesOnSteam-Service/master/preview.png)
 
 ### How to use
 Just edit the `config.json` file and set your **Gmail** account. You can change the time and the name of the temporary files on the config file as well.

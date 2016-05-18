@@ -1,0 +1,15 @@
+{
+  "name": "freegamesonsteam-service",
+  "version": "1.0.0",
+  "description": "Get the new post from the subreddit freegamesonsteam and send an email about it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Henrique - system.pedrohenrique@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^2.4.1",
+    "redwrap": "0.0.4"
+  }
+}

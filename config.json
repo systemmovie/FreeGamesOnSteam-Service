@@ -1,0 +1,9 @@
+{
+	"last_page_ids_filename": "last_page_ids_reddit_new.txt",
+	"email_list_filename": "email_list.txt",
+	"update_interval": "5", 
+	"email": {
+		"account": "",
+		"password": ""
+	}
+}
